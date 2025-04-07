@@ -9,7 +9,8 @@
 ✅ **Add and delete notes**  
 ✅ **Auto-saves to LocalStorage** (no data loss on refresh)  
 ✅ **Clean, responsive design** (works on mobile & desktop)  
-✅ **No backend needed** – 100% frontend JavaScript  
+✅ **No backend needed** – 100% frontend JavaScript
+
 ---
 
 ## 🚀 Quick Start  
