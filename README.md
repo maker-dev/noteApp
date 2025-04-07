@@ -15,7 +15,7 @@
 ## 🚀 Quick Start  
 1. **Clone or Download**  
    ```bash
-   git clone https://github.com/yourusername/NoteApp.git
+   git clone https://github.com/maker-dev/noteApp.git
    ```
 2. **Open `index.html`** in any modern browser (Chrome, Firefox, Edge).  
 3. **Start typing!** Notes save automatically.  
